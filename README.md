@@ -6,15 +6,6 @@
 
 [Bootstrap4 Elements Demo](http://smarttechdo.com/~avb/pfbc/example.php?v=4) :: [Source Code](http://smarttechdo.com/~avb/pfbc/example.php)
 
-
-## Support Me
-
-This software is developed during my free time and I will be glad if somebody will support me.
-
-Everyone's time should be valuable, so please consider donating.
-
-[Donate with paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=a%2ebutenka%40gmail%2ecom&lc=DO&item_name=php-bootstrap-form&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
-
 Latest Features:
 
 1. Bootstrap 3 and 4 support
